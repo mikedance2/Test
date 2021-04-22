@@ -1,5 +1,5 @@
 # Greetings
-HELLO!
+Welcome to my VA GitHub page.
 
 Please visit the VAEC Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
 
