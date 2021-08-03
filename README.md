@@ -1,5 +1,5 @@
 # Greetings
-Welcome to this test VA GitHub site.
+Welcome to this test GitHub site.
 
 Please visit the VAEC Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
 
