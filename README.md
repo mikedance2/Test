@@ -8,3 +8,5 @@ Check out the VA EA intranet site at https://vaww.ea.oit.va.gov/
 TRM:  http://trm.oit.va.gov/
 
 DevSecOps Best Practices Repository:  https://dvagov.sharepoint.com/sites/OITEPMOVAEA/DevSecOps/SitePages/Home.aspx
+
+For more information, please visit https://dvagov.sharepoint.com/sites/ArchitectureEngineeringServices/
