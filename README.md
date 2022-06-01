@@ -1,7 +1,7 @@
 # Welcome 
 Welcome to our test GitHub site for the Architecture and Engineering Service (AES).
 
-Please visit the VAEC Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
+Please visit the our Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
 
 Check out the VA EA intranet site at https://vaww.ea.oit.va.gov/
 
