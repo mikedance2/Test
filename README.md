@@ -1,5 +1,5 @@
 # Welcome 
-Welcome to the test GitHub site for the Architecture and Engineering Service (AES).
+Welcome to the test GitHub site for the Architecture and Engineering Service (AES).  This repository includes content for the Technical Architecture team.
 
 Please visit the our Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
 
