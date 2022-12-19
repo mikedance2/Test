@@ -1,5 +1,5 @@
 # Welcome 
-Welcome to the GitHub repository for the Architecture and Engineering Service (AES) Technical Architecture Team.  
+Welcome to the GitHub repository for the Architecture and Engineering Service (AES), Office of the Chief Technology Officer (OCTO).  
 
 Please visit our Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
 
