@@ -11,4 +11,4 @@ Engineering Best Practices Repository:  https://dvagov.sharepoint.com/sites/OITE
 
 For more information, please visit https://dvagov.sharepoint.com/sites/ArchitectureEngineeringServices/
 
-Thank you for your support.
+Thank you for your support!
