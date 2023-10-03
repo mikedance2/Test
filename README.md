@@ -3,6 +3,8 @@ Welcome to the technical architecture and engineering standards repository for t
 
 Please visit our Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
 
+For published Enterprise Design Patterns (EDP), click here:  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-design-patterns/
+
 Check out the VA EA intranet site at https://vaww.ea.oit.va.gov/
 
 VA TRM:  http://trm.oit.va.gov/
