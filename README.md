@@ -1,7 +1,9 @@
 # Welcome 
 Welcome to the technical architecture standards repository for the Architecture and Engineering Service (AES) in the Office of the Chief Technology Officer (OCTO).  
 
-Please visit our Confluence Site:  https://vaec-confluence.ec.va.gov/pages/viewpage.action?pageId=27164678
+Please visit our Confluence Site:  
+
+https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Architecture+and+Engineering+Service+%28AES%29+-+Technical+Architecture+Standards
 
 For published Enterprise Design Patterns (EDP), click here:  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-design-patterns/
 
