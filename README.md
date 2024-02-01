@@ -1,7 +1,7 @@
 # Welcome 
-Welcome to the technical architecture standards repository for the Architecture and Engineering Service (AES) in the Office of the Chief Technology Officer (OCTO).  
+Welcome to the technical architecture standards site for the Architecture and Engineering Service (AES) in the Office of the Chief Technology Officer (OCTO).  
 
-Please visit our Confluence Site:  
+Please visit our Confluence space:  
 
 https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Architecture+and+Engineering+Service+%28AES%29+-+Technical+Architecture+Standards
 
