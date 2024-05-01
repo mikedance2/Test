@@ -1,5 +1,5 @@
 # Welcome 
-Welcome to the technical architecture site for the Architecture and Engineering Service (AES) in the Office of the Chief Technology Officer (OCTO).  
+Welcome to the enterprise technoloyg standards site for the Architecture and Engineering Service (AES) in the Office of the Chief Technology Officer (OCTO).  
 
 Please visit our Confluence space:  
 
