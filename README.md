@@ -5,7 +5,7 @@ Please visit our Confluence space:
 
 https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Architecture+and+Engineering+Service+%28AES%29+-+Technical+Architecture+Standards
 
-For published Enterprise Technology Guidelines (ETG), click here:  [https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-design-patterns/](https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-technology-guidelines/)
+For published Enterprise Technology Guidelines (ETG), click here:  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-technology-guidelines/
 
 Check out the VA EA intranet site at https://vaww.ea.oit.va.gov/
 
