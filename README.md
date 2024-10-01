@@ -3,7 +3,8 @@ Welcome to the enterprise technology architecture standards page for the Archite
 
 Please visit our Confluence space:  
 
-https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Architecture+and+Engineering+Service+%28AES%29+-+Technical+Architecture+Standards
+[https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Architecture+and+Engineering+Service+%28AES%29+-+Technical+Architecture+Standards
+](https://confluence.devops.va.gov/display/VAExternal/Architecture+and+Engineering+Service+%28AES%29+-+Technology+Architecture+Guidelines)
 
 For published Enterprise Technology Guidelines (ETG), click here:  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-technology-guidelines/
 
