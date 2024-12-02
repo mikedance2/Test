@@ -10,8 +10,6 @@ For published Enterprise Technology Guidelines (ETG), click here:  https://digit
 
 Check out the VA EA intranet site at https://vaww.ea.oit.va.gov/
 
-Jira:  https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=11425&projectKey=AESARCH&selectedIssue=AESARCH-7#
-
 VA TRM:  http://trm.oit.va.gov/
 
 Engineering Best Practices and Technology Standards:  https://dvagov.sharepoint.com/sites/OITEPMOVAEA/DevSecOps/SitePages/Home.aspx
