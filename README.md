@@ -8,7 +8,7 @@ Please visit our Confluence space:
 
 For published Enterprise Technology Guidelines (ETG), click here:  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-technology-guidelines/
 
-Check out the VA EA intranet site at https://vaww.ea.oit.va.gov/
+Check out the VA EA intranet site:  https://vaww.ea.oit.va.gov/
 
 VA TRM:  http://trm.oit.va.gov/
 
