@@ -1,5 +1,5 @@
 # Welcome 
-Welcome to the technology architecture standards page for the Architecture and Engineering Service (AES) in the Office of the Chief Technology Officer (OCTO).  
+Welcome to the technology architecture standards page for the Architecture and Engineering Service (AES) in the Office of Information and Technology (OIT).  
 
 Please visit our Confluence space:  
 
