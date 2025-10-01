@@ -1,5 +1,5 @@
 # Welcome 
-Welcome to the technology architecture standards page for the Architecture and Engineering Service (AES) in the Office of Information and Technology (OIT).  
+Welcome to the technology architecture standards page for the Technology Architecture and Strategies (TAS) organization in the Office of Information and Technology (OIT).  
 
 Please visit our Confluence space:  
 
