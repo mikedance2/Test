@@ -1,7 +1,7 @@
 # Welcome 
 Welcome to the technology architecture standards page for the Technology Architecture and Strategies (TAS) organization in the Office of Information and Technology (OIT).  
 
-Please visit our Confluence space:  
+Please visit our Confluence space for more information:  
 
 [https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Architecture+and+Engineering+Service+%28AES%29+-+Technical+Architecture+Standards
 ](https://confluence.devops.va.gov/display/VAExternal/Architecture+and+Engineering+Service+%28AES%29+-+Technology+Architecture+Guidelines)
