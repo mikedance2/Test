@@ -10,7 +10,6 @@ Enterprise Technology Guidelines (ETG):  https://digital.va.gov/office-of-inform
 
 Note: This information will be migrating to Architect VA over the next few months.
 
-
 Check out the VA EA site:  https://vaww.ea.oit.va.gov/
 
 VA TRM:  http://trm.oit.va.gov/
