@@ -8,7 +8,7 @@ Please visit our internal Confluence site for more information:
 
 Enterprise Technology Guidelines (ETG):  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-technology-guidelines/
 
-Note: This information will be migrating to Architect VA over the next few months.
+Note: ETGs will be moving to Architect VA over the next few months.
 
 Check out the VA EA site:  https://vaww.ea.oit.va.gov/
 
