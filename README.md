@@ -1,7 +1,7 @@
 # Welcome 
 Welcome to the technology architecture standards page for the Technology Architecture and Strategy (TAS) organization in the Office of Information and Technology (OIT).  
 
-Please visit our internal Confluence site for more information:  
+Please visit our Confluence site for more information:  
 https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title=Technology+Architecture+Guidelines+and+Standards
 
 Enterprise Technology Guidelines (ETG):  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-technology-guidelines/
