@@ -6,7 +6,7 @@ https://confluence.devops.va.gov/pages/viewpage.action?spaceKey=VAExternal&title
 
 Enterprise Technology Guidelines (ETG):  https://digital.va.gov/office-of-information-and-technology/reference-library/enterprise-technology-guidelines/
 
-Note: ETGs will be moving to Architect VA over the next few months.
+Note: ETGs will be moving to Architect VA in FY27.
 
 Check out the VA EA site:  https://vaww.ea.oit.va.gov/
 
