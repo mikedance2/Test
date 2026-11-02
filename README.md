@@ -12,8 +12,6 @@ VA TRM:  http://trm.oit.va.gov/
 
 Engineering Best Practices and Technology Standards:  https://dvagov.sharepoint.com/sites/OITEPMOVAEA/DevSecOps/SitePages/Home.aspx
 
-For more information, please visit https://dvagov.sharepoint.com/sites/ArchitectureEngineeringServices/
-
 Thank you for your support.
 
 For any other inquiries, please contact ea@va.gov.  
